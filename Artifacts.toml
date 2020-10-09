@@ -1,0 +1,115 @@
+[[LibYAML]]
+arch = "aarch64"
+git-tree-sha1 = "379754a51167de1c93a70d753d19c848d68d2cc7"
+libc = "glibc"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "f6c2f3305413e2fd45e0fb63a6dfa5af8faa1070280c68cce7d073b5e149b18c"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.aarch64-linux-gnu.tar.gz"
+[[LibYAML]]
+arch = "aarch64"
+git-tree-sha1 = "17ad8b77bdf54b43a575698da46b63fc57511c43"
+libc = "musl"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "427ec0fb4242439f6d0a1676ee57069ec50813e51d33dd8c981af42609d68f01"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.aarch64-linux-musl.tar.gz"
+[[LibYAML]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6860e86a7b7f5e0aabd12c7b627157c54979c9fd"
+libc = "glibc"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "bcae6b106720c16d338e7175f8cba32b1de7324539679af9f213e0ab8a2bb740"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.armv7l-linux-gnueabihf.tar.gz"
+[[LibYAML]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b261e567efc9d65333faf7440372c84cab052a1a"
+libc = "musl"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "b5010cf0b0e80f36122a15e2a2ade943b24bccd75115befd5c316fe1b34bd25c"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.armv7l-linux-musleabihf.tar.gz"
+[[LibYAML]]
+arch = "i686"
+git-tree-sha1 = "357f6cc52a54f4b635fb5b8c0d09f7dfa2b00f52"
+libc = "glibc"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "ad83b2657b1e84d072316e4af206b36482c9eb6743f93a547aa3c850e94098cb"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.i686-linux-gnu.tar.gz"
+[[LibYAML]]
+arch = "i686"
+git-tree-sha1 = "c3cd51c9caa6c4b827459d96b7ff71c9edc5c1ee"
+libc = "musl"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "a051fe2fda18247aa24447e2daab80f4b28fa9c947751b0b4fe6353ff4f4958e"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.i686-linux-musl.tar.gz"
+[[LibYAML]]
+arch = "i686"
+git-tree-sha1 = "e195200af02e0c471e7d925a69fbbb67e37c5fa4"
+os = "windows"
+
+    [[LibYAML.download]]
+    sha256 = "4b514acfc16d5a4f518bc7a0cf14cb552f978bb8edb6cd7dd87b5f0b3f3959d9"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.i686-w64-mingw32.tar.gz"
+[[LibYAML]]
+arch = "powerpc64le"
+git-tree-sha1 = "cf97ae3bd4ee7216b10671ffa60afe66ebbbd1f8"
+libc = "glibc"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "7ac974540a4fe38ca6d32367ed53a5aba281d7325389a934e761a22f4de3f3b8"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.powerpc64le-linux-gnu.tar.gz"
+[[LibYAML]]
+arch = "x86_64"
+git-tree-sha1 = "fec4acb43a5d83bfff1d4209b1fc5e1556294470"
+os = "macos"
+
+    [[LibYAML.download]]
+    sha256 = "46da39626b4a4abb078d341f3a301da078d56e1ccaa19d472b1d2d83da23644c"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.x86_64-apple-darwin.tar.gz"
+[[LibYAML]]
+arch = "x86_64"
+git-tree-sha1 = "ac0a03460b49a667d8c40d7063e425c8c5b43696"
+libc = "glibc"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "0faa2940a6fcf9d486cfe9d7fe8ec5b3a615fe8dfbc20b890649b2c7f63dcb97"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.x86_64-linux-gnu.tar.gz"
+[[LibYAML]]
+arch = "x86_64"
+git-tree-sha1 = "6e5ffebd4b2d45ff566e02ba5176228f2a8a7738"
+libc = "musl"
+os = "linux"
+
+    [[LibYAML.download]]
+    sha256 = "f4c6112b94c107324aff1217a71a05b110caaf031aa03f83bb2a554893f36f99"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.x86_64-linux-musl.tar.gz"
+[[LibYAML]]
+arch = "x86_64"
+git-tree-sha1 = "53c689a3478a6aee2d2498f3830de2d3ad3d4c55"
+os = "freebsd"
+
+    [[LibYAML.download]]
+    sha256 = "0fed0dd01cf316ddd39e9f34692294341c88527646435f3f6fa5f3f117dfc8a4"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.x86_64-unknown-freebsd.tar.gz"
+[[LibYAML]]
+arch = "x86_64"
+git-tree-sha1 = "ea18642020627733cc1965fba1ab495147e16d73"
+os = "windows"
+
+    [[LibYAML.download]]
+    sha256 = "d593a94933afe07632d0c20baaf22ce2d72085e497811ef9c427ff3a1091667d"
+    url = "https://github.com/JuliaBinaryWrappers/LibYAML_jll.jl/releases/download/LibYAML-v0.2.5+0/LibYAML.v0.2.5.x86_64-w64-mingw32.tar.gz"
